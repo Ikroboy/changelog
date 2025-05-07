@@ -1,0 +1,6 @@
+DATA,KEY,SUMMARY,CAMPO,MUDANÇA
+2025-04-09T12:13:34.591-0300,SPJ-3487,[GMUD 182715 - 28/04] [MDR] - Ajuste no fluxo do BKO e no scrip de atualização em massa,status,[Backlog] -> [Em Desenvolvimento]
+2025-04-14T17:18:54.016-0300,SPJ-3487,[GMUD 182715 - 28/04] [MDR] - Ajuste no fluxo do BKO e no scrip de atualização em massa,status,[Em Desenvolvimento] -> [Code Review Concluído]
+2025-04-17T08:58:36.883-0300,SPJ-3487,[GMUD 182715 - 28/04] [MDR] - Ajuste no fluxo do BKO e no scrip de atualização em massa,status,[Code Review Concluído] -> [Testes]
+2025-04-25T11:17:10.010-0300,SPJ-3487,[GMUD 182715 - 28/04] [MDR] - Ajuste no fluxo do BKO e no scrip de atualização em massa,status,[Testes] -> [Homologação Concluída]
+2025-04-29T09:38:49.546-0300,SPJ-3487,[GMUD 182715 - 28/04] [MDR] - Ajuste no fluxo do BKO e no scrip de atualização em massa,status,[Homologação Concluída] -> [Concluídas]
